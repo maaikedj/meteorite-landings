@@ -1,5 +1,8 @@
 # Meteorite landings on Earth
 
+Maaike de Jong  
+April 2020
+
 ## Introduction
 In this notebook I analyse and visualize the NASA Meteorite Landings dataset, which is based on data collected by the [Meteoritical Society](https://www.lpi.usra.edu/meteor/) on meteorites that have fallen to Earth from outer space. 
 
